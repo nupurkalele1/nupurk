@@ -1,30 +1,23 @@
-# nupurk
-# 👋 Hi, I'm Nupur Kalele!
+# 👋 Hi, I'm Nupur Kalele
 
 <p align="center">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEBSITE-4B275F?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 ## </> About Me
 
-Master's student in Statistics at UIUC with a strong focus on statistical modeling and predictive analytics. Passionate about leveraging data-driven insights to solve complex problems. Previously worked on research initiatives at MIT-WPU, specializing in algorithmic intelligence and machine learning.
+Master's in Statistics student at the University of Illinois Urbana-Champaign. I specialize in statistical modeling, predictive analytics, and data-driven decision-making. My background includes research in algorithmic intelligence and hyperparameter optimization.
 
 ---
 
 ## 💼 Experience
 
-* **Researcher at MIT-WPU** (May 2024 - Jan 2025)
-    * Specialized in algorithmic stock intelligence using LSTM and NLP.
-* **Research Intern at MIT-WPU** (Jan 2024 - May 2024)
-    * Focused on data preprocessing and statistical analysis for research projects.
+* **Researcher** | MIT-WPU 
+    * Applied statistical modeling to optimize resource allocation and designed Python/SQL workflows for anomaly detection.
+* **Research Intern** | MIT-WPU 
+    * Developed CNN-based facial recognition systems and conducted cross-functional testing and validation.
 
 ---
 
@@ -36,7 +29,7 @@ Master's student in Statistics at UIUC with a strong focus on statistical modeli
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -44,7 +37,9 @@ Master's student in Statistics at UIUC with a strong focus on statistical modeli
 
 ```javascript
 const competencies = {
-  "Data Science": ["Statistical Modeling", "Predictive Analytics", "A/B Testing"],
-  "Machine Learning": ["LSTM", "NLP", "Keras", "TensorFlow"],
-  "Tools": ["MATLAB", "LaTeX", "Excel", "Seaborn"]
+  "Language": ["Python", "R", "SQL", "MATLAB", "LaTeX"],
+  "Framework/Tools": ["TensorFlow", "Keras", "Matplotlib", "Seaborn", "yfinance", "Pandas", "Numpy", "Excel"],
+  "Financial & Statistical Tools": ["Budgets", "Forecasting", "Cost Analysis", "Predictive Analytics", "A/B Testing", "Financial Reporting & Controls", "Anomaly & Intrusion Detection", "Cloud Security Concepts"],
+  "Core Competency": ["Statistical Modeling & Inference", "Probability & Sampling Methods", "Data Science & Analytics", "Data-Driven Decision Making"],
+  "Professional Skills": ["Communication", "Optimization", "Cross-functional Collaboration", "Problem-solving"]
 };
