@@ -6,18 +6,27 @@
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ## </> About Me
 
-Master's in Statistics student at the University of Illinois Urbana-Champaign. I specialize in statistical modeling, predictive analytics, and data-driven decision-making. My background includes research in algorithmic intelligence and hyperparameter optimization.
+Master's student in Statistics at University of Illinois Urbana Champaign with a strong background in computational mathematics and statistical modeling. Passionate about leveraging data-driven insights to solve complex problems and optimize decision-making processes. Previously worked on research initiatives at MIT-WPU, specializing in algorithmic intelligence, predictive analytics, and hyperparameter optimization. Published researcher in IEEEXplore for developing a hybrid approach to hyperparameter optimization using Grid Search and Large Language Models.
 
 ---
 
-## 💼 Experience
+## 📊 Experience
 
-* **Researcher** | MIT-WPU 
-    * Applied statistical modeling to optimize resource allocation and designed Python/SQL workflows for anomaly detection.
-* **Research Intern** | MIT-WPU 
-    * Developed CNN-based facial recognition systems and conducted cross-functional testing and validation.
+* **Researcher** at MIT-WPU (May 2024 - Jan 2025)
+    * Applied data analysis and statistical modeling to improve forecasting accuracy and optimize resource allocation by 5%.
+    * Designed Python workflows using pandas and SQL for anomaly detection and reporting, cutting analysis time by 30%.
+    * Collaborated with faculty and peers, presenting results in a clear, concise manner to both technical and non-technical audiences.
+
+* **Research Intern** at MIT-WPU (Jan 2024 - May 2024)
+    * Built CNN-based facial recognition system and curated datasets, strengthening analytical problem-solving and documentation skills.
+    * Conducted testing and validation of results, paralleling user acceptance testing and system documentation tasks.
+    * Worked cross-functionally, gaining experience in requirements gathering and communicating findings to diverse stakeholders.
 
 ---
 
