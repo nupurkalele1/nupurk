@@ -1,5 +1,5 @@
 # nupurk
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nupur Kalele!
 
 <p align="center">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
